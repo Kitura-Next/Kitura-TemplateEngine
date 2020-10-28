@@ -1,6 +1,6 @@
 module: KituraTemplateEngine
 author: IBM
-github_url: https://github.com/IBM-Swift/Kitura-TemplateEngine/
+github_url: https://github.com/Kitura-Next/Kitura-TemplateEngine/
 
 theme: fullwidth
 clean: true
