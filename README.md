@@ -92,6 +92,8 @@ router.get("/example") { request, response, next in
     next()
 }
 ```
+## Swift version
+Requires **Swift 5.1** or newer. You can download this version of the Swift binaries by following this [link](https://swift.org/download/). Compatibility with other Swift versions is not guaranteed.
 
 ## API Documentation
 For more information visit our [API reference](https://kitura-next.github.io/Kitura-TemplateEngine/index.html).
