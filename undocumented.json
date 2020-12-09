@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Kitura-TemplateEngine/Kitura-TemplateEngine/Sources/KituraTemplateEngine/TemplateEngine.swift",
+      "line": 18,
+      "symbol": "RenderingOptions",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Kitura-TemplateEngine/Kitura-TemplateEngine/Sources/KituraTemplateEngine/TemplateEngine.swift",
+      "line": 20,
+      "symbol": "NullRenderingOptions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Kitura-TemplateEngine/Kitura-TemplateEngine/Sources/KituraTemplateEngine/TemplateEngine.swift",
+      "line": 21,
+      "symbol": "NullRenderingOptions.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Kitura-TemplateEngine/Kitura-TemplateEngine"
+}
